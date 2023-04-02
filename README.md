@@ -1,24 +1,17 @@
 # vue-chat
 
-## Project setup
-```
-npm install
-```
+#Login
+![Login](./src/Images/Login.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#Chat Panel
+![Chat Panel](./src/Images/Chat-panel.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#Message
+![Message](./src/Images/chat-message.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
+#2nd User
+![2nd user](./src/Images/user-2.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#Multi User
+![Multi User](./src/Images/user-3.png)
+
